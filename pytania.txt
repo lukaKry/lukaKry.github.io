@@ -1,0 +1,48 @@
+strefa ile
+
+ile kosztuje stoisko
+	Cena stoiska mo¿e siê bardzo ró¿niæ w zale¿noœci od wyposa¿enia oraz wykorzystanych materia³ów. 
+	Cena za metr kwadratowy mo¿e wiêc wynosiæ od 20 z³ do nawet 1000z³.
+	Najlepiej jeœli siê do nas zg³osisz bezpoœrednio. Wówczas bêdziemy mogli przygotowaæ indywidualn¹ wycenê.
+ile kosztuje projekt
+	Kompletnie nic! Projekt jest GRATIS do ka¿dej wykonanej realizacji!!!
+ile czasu przed targami trzeba sie do nas zglosic
+	Zalecamy zg³osiæ siê jak najwczeœniej. Warto sobie zarezerwowaæ u nas termin. Niektóre miesi¹ce bywaj¹ mocno ob³o¿one.
+	Jeœli jednak zosta³o niewiele czasu do targów polecamy od razu do nas dzwoniæ. 
+	Jesteœmy w stanie zorganizowaæ siê ekspresowo, o ile mamy wolne moce przerobowe!
+ile czasu zajmuje przygotowanie calej realizacji
+	To zale¿y od stopnia skomplikowania przedsiêwziêcia. Dla stoisk standardowych czas mo¿e byæ liczony w dniach. Przy stoiskach indywidualnych raczej w tygodniach.
+
+strefa czy
+
+czy macie wolny termin
+	Zadzwoñ do nas i zapytaj! Nie zwlekaj z telefonem. Na jesieñ i na wiosnê mamy sporo pracy.
+czy lepiej zadzwonic czy wyslac do nas maila
+	W godzinach 8-16 zalecamy kontakt telefoniczny. Jest to najszybszy sposób otrzymania od nas odpowiedzi.
+	W pozosta³ych porach dnia zalecamy kontakt mailowy. Wówczas oddzwonimy nastêpnego dnia.
+czy zdazycie wykonac zlecenie w tydzien/miesiac?
+	Im wczeœniej dostaniemy zg³oszenie, tym lepiej dopracowany projekt Pañstwo otrzymaj¹. Lecz zda¿aj¹ siê 'awaryjne sytuacje' gdzie potrafiliœmy siê przeorganizowaæ w przeci¹gu kilku dni!
+czy warto budowac stoisko standardowe
+	Stoiska standardowe s¹ dobre, bo s¹ ekonomiczne! Jeœli dysponujesz niewielkim bud¿etem, zg³oœ siê do nas, zaproponujemy coœ w sam raz na twoj¹ kieszeñ!
+czy da siê taniej
+	Jesteœmy otwarci na rozmowy, lecz poni¿ej niektórych kosztów logistycznych nie da siê zejœæ. ¯eby przetransportowaæ stoisko na targi musimy zatankowaæ benzynê w tej samej cenie, co wszyscy...
+
+pomaranczowy rgb(240, 180, 0)
+szary rgb(223,225,232)
+niebieski rgb(0,90,157)
+
+czarny przezroczysty rgba(0,0,0,0.4)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
