@@ -16,8 +16,13 @@
     <link rel="stylesheet" href="styles.css" />
 
     <title>lukaKry's site</title>
+    <script
+      src="https://kit.fontawesome.com/510e9e4f48.js"
+      crossorigin="anonymous"
+    ></script>
   </head>
   <body>
+    <!-- header section -->
     <header class="header text-center bg-dark">
       <nav class="navbar navbar-dark navbar-expand-lg p-2">
         <div class="container-fluid d-lg-none">
@@ -32,11 +37,17 @@
           >
             <span class="navbar-toggler-icon"></span>
           </button>
-          <div class="nav-name text-light fs-4">lukaKry</div>
+          <div class="nav-name text-light fs-4">Lukas Kryszak</div>
         </div>
 
-        <div class="navbar-collapse flex-column collapse" id="navBar">
+        <div
+          class="navbar-collapse flex-column collapse p-3 text-secondary"
+          id="navBar"
+        >
           <div class="bg-dark">
+            <div class="nav-name text-light fs-4 d-none d-lg-block">
+              Lukas Kryszak
+            </div>
             <div class="nav-photo-container">
               <img
                 class="nav-photo"
@@ -44,15 +55,61 @@
                 alt="lukakry"
               />
             </div>
-            <p class="text-secondary">description</p>
-            <div class="text-muted">horizontal icons</div>
-            <div class="text-muted">vertical menu items</div>
+            <p class="text-secondary">
+              Hi, my name is Lukas Kryszak and I'm a software developer. Go
+              ahead and check out my experience!
+            </p>
+
+            <hr class="text-secondary" />
+
+            <ul class="social-icons list-inline mx-auto p-2">
+              <li>
+                <i class="fa-brands fa-facebook fa-2x"></i>
+              </li>
+              <li>
+                <i class="fa-brands fa-github fa-2x"></i>
+              </li>
+              <li>
+                <i class="fa-brands fa-linkedin fa-2x"></i>
+              </li>
+              <li>
+                <i class="fa-brands fa-instagram fa-2x"></i>
+              </li>
+            </ul>
+
+            <hr class="text-secondary" />
+
+            <ul>
+              <li>
+                <a href="#aboutme"
+                  ><i class="fa-solid fa-person"></i> About me</a
+                >
+              </li>
+              <li>
+                <a href="#portfolio"
+                  ><i class="fa-solid fa-briefcase"></i> Portfolio</a
+                >
+              </li>
+              <li>
+                <a href="#resume"><i class="fa-solid fa-file"></i> Resume</a>
+              </li>
+              <li>
+                <a href="#contact"
+                  ><i class="fa-solid fa-envelope"></i> Contact</a
+                >
+              </li>
+            </ul>
+
+            <hr class="text-secondary" />
           </div>
         </div>
       </nav>
     </header>
 
-    <div class="main">hi there</div>
+    <div class="main">
+      hi there
+      <i class="fa-solid fa-person text-muted"></i>
+    </div>
 
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
