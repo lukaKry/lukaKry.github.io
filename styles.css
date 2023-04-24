@@ -122,9 +122,43 @@ header li a:hover {
 /* main section */
 .main-photo {
   width: 100%;
+  max-width: 450px;
   border-radius: 0.25rem;
   filter: grayscale(100%);
   box-shadow: 2px 2px #000;
+}
+
+
+/* tech cards row */
+.tech-column {
+  display: flex;
+  flex-direction: row;
+  margin-block: 2rem;
+  flex-wrap: wrap;
+  gap: 3rem;
+  justify-content: center;
+}
+
+.tech-card {
+  border: 1px solid #dee2e696;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  max-width: 300px;
+  min-width: 200px;
+}
+
+.tech-card i {
+  font-size: 2rem;
+  margin-bottom: 0.5rem;
+}
+.tech-card h5 {
+  font-style: italic;
+}
+.tech-card svg {
+  width: 2rem;
+  height: 1.75rem;
+  margin-bottom: 0.5rem;
+  border-radius: 5px;
 }
 
 /* utils */
@@ -133,10 +167,46 @@ header li a:hover {
   padding-left: 1rem;
 }
 
+.border-down {
+  border-bottom: 4px solid #198754;
+  padding-bottom: 1rem;
+}
+
 .background-green {
   background-color: #19875410;
 }
 
 .background-gray {
   background-color: #21252910;
+}
+
+/* icons colors */
+.fa-square-js {
+  color: #ffd43b;
+}
+
+.fa-react {
+  color: #5ed3f3;
+}
+
+.fa-sass {
+  color: #c76494;
+}
+
+.fa-angular {
+  color: #d6002f;
+}
+
+.fa-bootstrap {
+  background: -webkit-linear-gradient(135deg, #6b10ed, #8a12f2);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+svg.ts-icon .st0 { 
+  fill: #007acc;
+}
+
+svg.ts-icon .st1 { 
+  fill: #fff;
 }
