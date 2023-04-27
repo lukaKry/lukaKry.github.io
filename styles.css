@@ -92,11 +92,11 @@ header li a:hover {
   border: 1px solid #dee2e696;
   border-radius: 0.5rem;
   padding: 1rem;
-  max-width: 300px;
+  max-width: 250px;
   min-width: 200px;
 }
 
-.tech-card i {
+.tech-card i, .tech-card img, .tech-card svg {
   font-size: 2rem;
   margin-bottom: 0.5rem;
   margin-right: 0.5rem;
