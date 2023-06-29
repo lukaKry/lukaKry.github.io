@@ -376,7 +376,7 @@ svg.ts-icon .st1 {
   z-index: 5;
 }
 
-.title {
+.note .title {
   font-size:2rem;
   margin-bottom:0.5rem;
   position: relative;
@@ -384,12 +384,8 @@ svg.ts-icon .st1 {
   font-style: italic;
 }
 
-
-
-.body {
+.note .body {
   color:#aaa;
   line-height:1.4em;
 }
-
-/*:not(:first-child)*/
 
